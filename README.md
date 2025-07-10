@@ -12,6 +12,9 @@ Este sistema permite gestionar productos, marcas, categorías e inventario usand
 - LINQ
 - Visual Studio 2022
 
-git clone https://github.com/usuario/repositorio.git
+git clone [https://github.com/usuario/repositorio.git](https://github.com/StevenAFA/LinQ_Join.git)
+
 cd repositorio
 abrir con Visual Studio y ejecutar
+
+Steven Fonseca Araya: desarrollador
